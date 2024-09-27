@@ -108,7 +108,3 @@ public class MainActivity extends AppCompatActivity {
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
 
-
-
-## RESULT
-Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
